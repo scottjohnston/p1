@@ -1,6 +1,6 @@
-#This is the index page for cscie 15 (dwa15) assigments
+#This is Project 1 for Dwa15 Scott Johnston
 
-I used Bootstrap to give the page a nice layout.
+I used Bootstrap grid layout to give the page a structure.
 
 As the screen size is reduced the column padding on each side of the text will.
 
