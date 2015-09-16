@@ -23,7 +23,7 @@
             <div class="center-block">
                <ul class="list-inline nav nav-tabs nav-justified col-md-12  col-xs-12 col-sm-8 coll-sm-offset-1 col-lg-12 ">
                   <li><a href="index.php" data-toggle="tooltip" title="Project 1"> Project 1</a></li>
-                  <li><a href="https://github.com/scottjohnston/scottjohnstonDwa15.git" data-toggle="tooltip" title="Github P1">Git project 1</a></li>
+                  <li><a href="https://github.com/scottjohnston/p1" data-toggle="tooltip" title="Github P1">Git project 1</a></li>
                   <li><a href="#" data-toggle="tooltip" title="Project 2">Project 2</a></li>
                   <li><a href="#" data-toggle="tooltip" title="Github P2">git project 2</a></li>
                   <li><a href="#" data-toggle="tooltip" title="Project 3">Project 3</a></li>
