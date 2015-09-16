@@ -18,4 +18,4 @@ Place holders have been added for the links to the rest of the projects
 
 There is a link to the course web site in the footer at the bottom of the page
 
-[p1.scottvjohnston.me](www.scottvjohnston.me/p1)
+[p1.scottvjohnston.me](http://www.scottvjohnston.me/p1)
