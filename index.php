@@ -20,17 +20,41 @@
 
          <!-- Links to the other projects-->
          <div class="row">
-            <div class="center-block">
-               <ul class="list-inline nav nav-tabs nav-justified col-md-12  col-xs-12 col-sm-8 coll-sm-offset-1 col-lg-12 ">
-                  <li><a href="http://p1.scottvjohnston.me/" data-toggle="tooltip" title="Project 1"> Project 1</a></li>
-                  <li><a href="https://github.com/scottjohnston/p1" data-toggle="tooltip" title="Github P1">Git project 1</a></li>
-                  <li><a href="http://p2.scottvjohnston.me/" data-toggle="tooltip" title="Project 2">Project 2</a></li>
-                  <li><a href="https://github.com/scottjohnston/p2" data-toggle="tooltip" title="Github P2">git project 2</a></li>
-                  <li><a href="#" data-toggle="tooltip" title="Project 3">Project 3</a></li>
-                  <li><a href="#" data-toggle="tooltip" title="Github P3">git project 3</a></li>
-                  <li><a href="#" data-toggle="tooltip" title="Project 4">Project 4</a></li>
-                  <li><a href="#" data-toggle="tooltip" title="Github P4">git project 4</a></li>
+            <div class="center-block ">
+
+               <nav class="navbar navbar-default  " role="navigation">
+                <div class="navbar-header">
+
+               <button type="button" class="navbar-toggle " data-toggle="collapse" data-tog="tooltip" title="Links" data-target="#example-navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+
+               </button>
+
+
+               </div>
+
+
+               <div class="collapse navbar-collapse" id="example-navbar-collapse">
+
+               <ul class="list-inline nav nav-tabs nav-justified ">
+                  <li><a href="http://p1.scottvjohnston.me" data-tog="tooltip" title="Project 1"> Project 1</a></li>
+                  <li><a href="https://github.com/scottjohnston/p1" data-tog="tooltip" title="Github P1">Git project 1</a></li>
+                  <li><a href="http://p2.scottvjohnston.me" data-tog="tooltip" title="Project 2">Project 2</a></li>
+                  <li><a href="https://github.com/scottjohnston/p2" data-tog="tooltip" title="Github P2">git project 2</a></li>
+                  <li><a href="http://p3.scottvjohnston.me" data-tog="tooltip" title="Project 3">Project 3</a></li>
+                  <li><a href="https://github.com/scottjohnston/p2" data-tog="tooltip" title="Github P3">git project 3</a></li>
+                  <li><a href="#" data-tog="tooltip" title="Project 4">Project 4</a></li>
+                  <li><a href="#" data-tog="tooltip" title="Github P4">git project 4</a></li>
                </ul>
+
+            </div>
+            </nav>
+
+
+
             </div>
          </div>
 
@@ -44,7 +68,7 @@
             <section class="col-md-8 col-md-offset-2 col-xs-12 col-sm-10 coll-sm-offset-1 col-lg-offset-3 col-lg-6">
                <h3>In 2+ sentences describe who you are and what you do </h3>
                <p>
-                  I am onair / supervisor technician at the Australian Broadcasting corporation radio + on line + some TV, which is a not for profit broadcaster. Its not that different to the BBC in England or NPR in the US. I work in the News and Current Affairs area. 
+                  I am onair / supervisor technician at the Australian Broadcasting corporation radio + on line + some TV, which is a not for profit broadcaster. Its not that different to the BBC in England or NPR in the US. I work in the News and Current Affairs area.
                </p>
             </section>
          </div>
@@ -53,7 +77,7 @@
             <section class="col-md-8 col-md-offset-2 col-xs-12 col-sm-10 coll-sm-offset-1 col-lg-offset-3 col-lg-6">
                <h3>Why are you taking this course?</h3>
                <p>
-                  I want to learn how to build good interactive web sites. I really like working with the web and all things digital and this course with its PHP server focus looked like the next logical step in that progression. 
+                  I want to learn how to build good interactive web sites. I really like working with the web and all things digital and this course with its PHP server focus looked like the next logical step in that progression.
                </p>
             </section>
          </div>
@@ -63,7 +87,7 @@
                <h3>What previous experience do you have with programming?</h3>
                <p>
                   I have completed the Harvard Java courses 10a and 10b, databases in E-60 and HTML css in E-12. I have also
-                  messed around with C and C++ on and off for quite a few years.  
+                  messed around with C and C++ on and off for quite a few years.
                </p>
             </section>
          </div>
@@ -86,7 +110,7 @@
       <!-- Jquery for the tool tip-->
       <script>
          $(document).ready(function(){
-             $('[data-toggle="tooltip"]').tooltip();   
+             $('[data-toggle="tooltip"]').tooltip();
          });
       </script>
    </body>
